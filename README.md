@@ -19,6 +19,6 @@
 ### Examples
 Here are images including 5 keypoints and 68 keypoints, respectively.
 
-![image of 5pt](https://qizAidon.github.com/3d_facial/5pt.png)
+![](5pt.png)
 
-![image of 5pt](https://qizAidon.github.com/3d_facial/68pt.png)
+![](68pt.png)
