@@ -1,5 +1,17 @@
 ## 3D facial landmark localization
 
+### Reference
+@article{sukno20153,<br />
+  title={3-D facial landmark localization with asymmetry patterns and shape regression from incomplete local features},<br />
+  author={Sukno, Federico M and Waddington, John L and Whelan, Paul F},<br />
+  journal={IEEE transactions on cybernetics},<br />
+  volume={45},<br />
+  number={9},<br />
+  pages={1717--1730},<br />
+  year={2015},<br />
+  publisher={IEEE}<br />
+}
+
 ### Instructions
 
 * ./files include *.pts files and *.abs files. Please refer to meshSpin.m for detailed info.
