@@ -1,6 +1,6 @@
 ## 3D facial landmark localization
 
-###Instructions
+### Instructions
 
 * ./files include *.pts files and *.abs files. Please refer to meshSpin.m for detailed info.
 
